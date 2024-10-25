@@ -28,27 +28,27 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "STMicroelectronics",
+              "packager": "ArtronShop",
               "name": "xpack-arm-none-eabi-gcc",
               "version": "13.2.1-1.1"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "ArtronShop",
               "name": "xpack-openocd",
               "version": "0.12.0-3"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "ArtronShop",
               "name": "STM32Tools",
               "version": "2.2.3"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "ArtronShop",
               "name": "CMSIS",
               "version": "5.9.0"
             },
             {
-              "packager": "STMicroelectronics",
+              "packager": "ArtronShop",
               "name": "STM32_SVD",
               "version": "1.15.1"
             }
