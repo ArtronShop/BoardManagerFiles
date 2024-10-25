@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "STM32 MCU based boards",
+          "name": "ArtronShop Boards",
           "architecture": "stm32",
           "version": "2.8.1",
           "category": "Contributed",
