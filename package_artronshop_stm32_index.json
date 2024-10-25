@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "ArtronShop Boards",
+          "name": "ArtronShop STM32 Boards",
           "architecture": "stm32",
           "version": "2.8.1",
           "category": "Contributed",
