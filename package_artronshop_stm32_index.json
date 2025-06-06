@@ -12,6 +12,51 @@
         {
           "name": "ArtronShop STM32 Boards",
           "architecture": "stm32",
+          "version": "2.8.1-1",
+          "category": "Contributed",
+          "url": "https://github.com/ArtronShop/Arduino_Core_STM32/releases/download/2.8.1-1/STM32-2.8.1-1.tar.bz2",
+          "archiveFileName": "STM32-2.8.1-1.tar.bz2",
+          "checksum": "sha256:e0f4496ab6d74bcdb4755106cb3a6b8e5b01fb5a9410edd5fc3042ba258c2928",
+          "size": "47327474",
+          "boards": [
+            {
+              "name": "ArtronShop Nano G4"
+            },
+            {
+              "name": "Thotsakan"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "ArtronShop",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "13.2.1-1.1"
+            },
+            {
+              "packager": "ArtronShop",
+              "name": "xpack-openocd",
+              "version": "0.12.0-3"
+            },
+            {
+              "packager": "ArtronShop",
+              "name": "STM32Tools",
+              "version": "2.2.3"
+            },
+            {
+              "packager": "ArtronShop",
+              "name": "CMSIS",
+              "version": "5.9.0"
+            },
+            {
+              "packager": "ArtronShop",
+              "name": "STM32_SVD",
+              "version": "1.15.1"
+            }
+          ]
+        },
+        {
+          "name": "ArtronShop STM32 Boards",
+          "architecture": "stm32",
           "version": "2.8.1",
           "category": "Contributed",
           "url": "https://github.com/ArtronShop/Arduino_Core_STM32/releases/download/2.8.1/STM32-2.8.1.tar.bz2",
