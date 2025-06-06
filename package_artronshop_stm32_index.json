@@ -16,7 +16,7 @@
           "category": "Contributed",
           "url": "https://github.com/ArtronShop/Arduino_Core_STM32/releases/download/2.8.1-1/STM32-2.8.1-1.tar.bz2",
           "archiveFileName": "STM32-2.8.1-1.tar.bz2",
-          "checksum": "sha256:e0f4496ab6d74bcdb4755106cb3a6b8e5b01fb5a9410edd5fc3042ba258c2928",
+          "checksum": "SHA-256:e0f4496ab6d74bcdb4755106cb3a6b8e5b01fb5a9410edd5fc3042ba258c2928",
           "size": "47327474",
           "boards": [
             {
